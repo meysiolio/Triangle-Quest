@@ -13,10 +13,10 @@ Use no more than two lines. The first line (the for statement) is already writte
 
 **Note:** Using anything related to strings will give a score of `0`.  
 
-**Input Format**
+**Input Format**  
 A single line containing integer, `N`.  
 
-**Output Format**
+**Output Format**  
 Print `N-1` lines as explained above.  
 
 **Sample Input**
